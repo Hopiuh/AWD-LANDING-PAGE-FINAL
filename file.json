@@ -33,12 +33,5 @@
         "title": "restaurant guide",
         "description": "Restaurant guide for mcdonalds fast food chain.",
         "link": "./restaurant guide"
-    },
-    {
-        "title": "responsive",
-        "description": "Responsive car search for car enthusiasts.",
-        "link": "./responsive"
     }
-    
-    
 ]
