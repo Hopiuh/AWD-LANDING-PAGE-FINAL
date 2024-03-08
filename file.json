@@ -10,6 +10,11 @@
         "link": "./notification bell"
     },
     {
+        "title": "responsive",
+        "description": "A responsive website.",
+        "link": "./responsive"
+    },
+    {
         "title": "calculator",
         "description": "A simple calculator with a simple design.",
         "link": "./calc"
@@ -30,8 +35,14 @@
         "link": "./gallery"
     },
     {
+        "title": "responsive",
+        "description": "Gallery of local makeup for everyday use.",
+        "link": "./responsive"
+    },
+    {
         "title": "restaurant guide",
-        "description": "Restaurant guide for mcdonalds fast food chain.",
+        "description": "Gallery of local makeup for everyday use.",
         "link": "./restaurant guide"
     }
+    
 ]
