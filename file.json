@@ -28,6 +28,11 @@
         "title": "gallery",
         "description": "Gallery of local makeup for everyday use.",
         "link": "./gallery"
+    },
+    {
+        "title": "restaurant guide",
+        "description": "Restaurant guide for Mcdonalds Fastfood.",
+        "link": "./restaurant guide"
     }
     
 ]
