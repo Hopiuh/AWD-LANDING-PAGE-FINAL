@@ -30,6 +30,11 @@
         "link": "./gallery"
     },
     {
+        "title": "restaurant guide",
+        "description": "Responsive car search for car enthusiasts.",
+        "link": "./restaurant guide"
+    },
+    {
         "title": "responsive",
         "description": "Responsive car search for car enthusiasts.",
         "link": "./responsive"
