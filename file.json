@@ -30,11 +30,6 @@
         "link": "./gallery"
     },
     {
-        "title": "restaurant guide",
-        "description": "Restaurant guide for Mcdonalds Fastfood.",
-        "link": "./restaurant guide"
-    },
-    {
         "title": "responsive",
         "description": "Responsive car search for car enthusiasts.",
         "link": "./responsive"
